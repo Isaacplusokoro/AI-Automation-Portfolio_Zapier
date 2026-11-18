@@ -3,8 +3,6 @@ A no-code automation that reads Google Form submissions, classifies them with AI
 
 **Highlights:** confidence threshold, human-review guardrails, and a debugging log of problems and fixes.
 
-[Read the case study](./zapier-inquiry-classifier/README.md)
-
 ## Tools Used
 Claude, Zapier, Google Forms, Google Sheets
 
@@ -13,3 +11,5 @@ Learning projects only. The company is fictional, contact details are placeholde
 
 ## Contact
 Okiemute Isaac Okoro| https://www.linkedin.com/in/okiemute-okoro| isaacplusokoro@gmail.com
+
+[Read the case study](./zapier-inquiry-classifier/README.md)
