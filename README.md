@@ -12,4 +12,4 @@ Learning projects only. The company is fictional, contact details are placeholde
 ## Contact
 Okiemute Isaac Okoro | https://www.linkedin.com/in/okiemute-okoro | isaacplusokoro@gmail.com
 
-[Read the case study](./zapier-inquiry-classifier/README.md)
+[Read the case study](./zapier-classifier-case-study.md)
