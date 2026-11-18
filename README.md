@@ -10,6 +10,6 @@ Claude, Zapier, Google Forms, Google Sheets
 Learning projects only. The company is fictional, contact details are placeholders, and no real client data was used.
 
 ## Contact
-Okiemute Isaac Okoro| https://www.linkedin.com/in/okiemute-okoro| isaacplusokoro@gmail.com
+Okiemute Isaac Okoro | https://www.linkedin.com/in/okiemute-okoro | isaacplusokoro@gmail.com
 
 [Read the case study](./zapier-inquiry-classifier/README.md)
